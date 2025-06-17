@@ -1,0 +1,42 @@
+{
+  "domain": "ml intern",
+  "courses": [
+    {
+      "title": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+      "platform": "Udemy",
+      "outcome": "Gain practical experience in machine learning by building models using Python and R, covering key concepts and algorithms.",
+      "link": "https://www.udemy.com/course/machinelearning/"
+    },
+    {
+      "title": "Deep Learning Specialization",
+      "platform": "Coursera",
+      "outcome": "Master deep learning techniques and frameworks like TensorFlow and Keras, enabling you to build neural networks for various applications.",
+      "link": "https://www.coursera.org/specializations/deep-learning"
+    },
+    {
+      "title": "Python for Data Science and Machine Learning Bootcamp",
+      "platform": "Udemy",
+      "outcome": "Develop proficiency in Python, data manipulation with Pandas, and machine learning libraries for data science projects.",
+      "link": "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/"
+    },
+    {
+      "title": "Applied Data Science with Python Specialization",
+      "platform": "Coursera",
+      "outcome": "Learn data visualization and manipulation with Python, along with machine learning applications and techniques.",
+      "link": "https://www.coursera.org/specializations/data-science-python"
+    },
+    {
+      "title": "Statistics for Data Science",
+      "platform": "edX",
+      "outcome": "Build a strong foundation in statistics, crucial for understanding and applying machine learning algorithms effectively.",
+      "link": "https://www.edx.org/course/statistics-for-data-science"
+    }
+  ],
+  "recommended_projects": [
+    "Image Classification Project: Build a neural network to classify images from a dataset (e.g., CIFAR-10) and implement data augmentation techniques.",
+    "Natural Language Processing (NLP) Application: Develop a sentiment analysis model using Twitter data or product reviews, exploring pre-trained models like BERT.",
+    "Reinforcement Learning Game: Create a simple game environment and apply reinforcement learning algorithms to train an agent.",
+    "Predictive Modeling: Work on a project that predicts house prices based on various features using regression techniques.",
+    "Automated Machine Learning (AutoML) System: Build a prototype that can automatically choose models and hyperparameters based on given datasets."
+  ]
+}

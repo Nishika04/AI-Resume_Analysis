@@ -1,0 +1,57 @@
+{
+  "job_role": "ml intern",
+  "linkedin_groups": [
+    {
+      "name": "Machine Learning & Data Science",
+      "reason": "A community focused on sharing resources, job postings, and discussions related to machine learning and data science."
+    },
+    {
+      "name": "Artificial Intelligence & Machine Learning",
+      "reason": "Connect with industry professionals and enthusiasts; great for networking and finding internship opportunities."
+    },
+    {
+      "name": "Kaggle & Data Science Competitions",
+      "reason": "A group for those participating in Kaggle competitions, ideal for showcasing projects and connecting with peers."
+    }
+  ],
+  "online_communities": [
+    "Reddit (subreddits like r/MachineLearning and r/datascience)",
+    "Discord (servers like AI & ML Enthusiasts)",
+    "Slack (channels such as Data Science Society)",
+    "Kaggle (for competitions and discussions)"
+  ],
+  "conferences": [
+    "NeurIPS (Neural Information Processing Systems)",
+    "ICML (International Conference on Machine Learning)",
+    "CVPR (Conference on Computer Vision and Pattern Recognition)",
+    "Data Science Conference",
+    "PyCon (Python Conference)"
+  ],
+  "influencers_to_follow": [
+    {
+      "name": "Andrew Ng",
+      "platform": "LinkedIn",
+      "why": "Co-founder of Google Brain and Coursera, he shares valuable insights on AI and ML education."
+    },
+    {
+      "name": "Yann LeCun",
+      "platform": "Twitter",
+      "why": "Pioneer in deep learning and AI; follows his work for the latest trends and research."
+    },
+    {
+      "name": "Sebastian Raschka",
+      "platform": "GitHub",
+      "why": "Author of 'Python Machine Learning'; offers practical ML code examples and tutorials."
+    },
+    {
+      "name": "Kirk Borne",
+      "platform": "LinkedIn",
+      "why": "Data scientist and advocate for AI; shares useful resources and industry news."
+    },
+    {
+      "name": "Rachel Thomas",
+      "platform": "Twitter",
+      "why": "Co-founder of fast.ai; provides insights into practical AI and ML applications."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "candidate": "Candidate Name",
+  "strengths": [
+    "Candidate has relevant educational background in computer science.",
+    "Experience in machine learning projects demonstrates practical application of skills.",
+    "Skills in frontend development may indicate versatility and the ability to build user interfaces for ML applications."
+  ],
+  "weaknesses": [
+    "Unclear proficiency in programming languages such as Python or R, which are crucial for the position.",
+    "Limited exposure to specific machine learning libraries (e.g., TensorFlow, Keras, scikit-learn) that are often required in internship roles.",
+    "Potential gaps in strong mathematical background, which is essential for understanding ML algorithms."
+  ],
+  "opportunities": [
+    "The candidate can enhance their proficiency in Python or R through online courses or coding bootcamps.",
+    "Engagement in open-source machine learning projects can provide exposure to necessary libraries and real-world problem-solving.",
+    "Networking within the machine learning community can lead to mentorship and internship opportunities."
+  ],
+  "threats": [
+    "High competition for Machine Learning Intern positions with candidates who may have stronger technical skills and library experience.",
+    "Rapidly evolving industry trends may require constant learning and adaptation that the candidate needs to keep pace with.",
+    "Failure to demonstrate strong communication skills could hinder opportunities, as collaboration is key in ML projects."
+  ],
+  "resume_match_percentage": "65%",
+  "suggestions": [
+    "Enhance programming skills in Python and/or R through dedicated learning and practical application.",
+    "Gain hands-on experience with popular machine learning libraries by completing online projects or participating in Kaggle competitions.",
+    "Strengthen mathematical skills relevant to machine learning, such as linear algebra and statistics, to ensure a solid foundation.",
+    "Consider adding a portfolio section to the resume that highlights specific projects and outcomes to showcase capabilities."
+  ]
+}

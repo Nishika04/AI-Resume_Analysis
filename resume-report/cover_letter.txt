@@ -1,0 +1,31 @@
+[Your Name]  
+[Your Address]  
+[City, State, Zip]  
+[Your Email]  
+[Your Phone Number]  
+[Date]  
+
+[Employer's Name]  
+[Company's Name]  
+[Company's Address]  
+[City, State, Zip]  
+
+Dear [Employer's Name],
+
+I am writing to express my interest in the Machine Learning Intern position at [Company's Name], as advertised on [where you found the job listing]. With my background in computer science, hands-on experience in machine learning projects, and strong skills in frontend development, I am excited to contribute to your team and further develop my expertise in this rapidly evolving field.
+
+Currently, I am pursuing a Bachelor of Technology in Computer Science with a focus on Artificial Intelligence and Machine Learning at Manipal University Jaipur, expecting to graduate in 2027. Through my coursework, I have built a solid foundation in programming languages such as Python and R, alongside machine learning concepts and algorithms. My understanding of statistics, linear algebra, and calculus has been further solidified through relevant courses, empowering me to tackle complex machine learning problems effectively.
+
+During my recent internship as a Frontend Developer at Reliqus Consulting, I completed an intensive program that honed my skills in HTML, CSS, and JavaScript. I collaborated with a team to design and develop a responsive e-commerce website landing page, showcasing my UI/UX design capabilities. This experience has equipped me with the ability to create user-friendly interfaces that can enhance machine learning applications.
+
+Moreover, I have engaged in exciting projects that demonstrate my machine learning capabilities. One such project, "SoundCanvas," involved engineering a machine learning system to recommend music based on user-provided text inputs, achieving a ~65% accuracy in mood alignment. This project required fine-tuning a BERT model and implementing a random forest classifier, further solidifying my practical knowledge of machine learning frameworks and techniques. Additionally, my involvement with the IEEE Genesis WebDev Core Committee allowed me to collaborate on a responsive website for a flagship event, successfully attracting over 25,000 users.
+
+I am particularly drawn to [Company's Name] because of its commitment to innovation and excellence in the field of machine learning. I am eager to apply my experience in machine learning projects, coupled with my frontend development skills, to contribute to your team’s success. I am confident that my problem-solving mindset and dedication to continuous learning will enable me to thrive in this dynamic environment.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how my background, skills, and enthusiasms align with the goals of [Company's Name]. I am available for an interview at your earliest convenience and can be reached via [Your Phone Number] or [Your Email]. 
+
+Warm regards,
+
+[Your Name]  
+
+[Attachment: Resume]

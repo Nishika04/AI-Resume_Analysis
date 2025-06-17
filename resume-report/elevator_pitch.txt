@@ -1,0 +1,4 @@
+{
+  "job_role": "ml intern",
+  "elevator pitch": "Hi, I'm [Your Name], a computer science student specializing in artificial intelligence at Manipal University. I've gained hands-on experience in machine learning through projects like 'SoundCanvas,' where I engineered a recommendation system using BERT with a 65% accuracy in mood alignment. My proficiency in Python and knowledge of libraries such as TensorFlow and Keras, coupled with my strong foundation in statistics and linear algebra, equip me to tackle complex ML challenges. I'm eager to leverage my skills and further develop my expertise as a Machine Learning Intern at [Company's Name], contributing to innovative solutions that drive impactful results."
+}

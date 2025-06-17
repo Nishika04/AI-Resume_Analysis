@@ -1,0 +1,23 @@
+{
+  "suggestions": [
+    "Add relevant skills: Include specific programming languages like Python and R, as well as libraries such as TensorFlow, Keras, and PyTorch to align with market requirements.",
+    "Use action verbs: Start bullet points with dynamic action verbs (e.g., 'engineered', 'developed', 'collaborated') to enhance the impact of your experience.",
+    "Properly format headings: Use clear and consistent formatting for section headings (e.g., 'Skills', 'Experience', 'Education') to improve readability and ATS compatibility.",
+    "Include a summary section: Add a brief summary at the top of the resume that highlights key qualifications and experiences relevant to the machine learning field.",
+    "Optimize keywords: Incorporate industry-specific keywords related to machine learning, software engineering, and data analysis throughout the resume to pass ATS filters.",
+    "Consolidate repeated content: Remove duplicate entries in the experience section to streamline the content and ensure clarity.",
+    "Highlight projects: Create a dedicated 'Projects' section to showcase relevant projects with clear outcomes, methodologies, and technologies used, enhancing your portfolio visibility.",
+    "Add a portfolio link: If applicable, include a link to an online portfolio or GitHub repository to provide tangible evidence of your skills and projects.",
+    "Quantify achievements: Where possible, quantify your contributions and results (e.g., 'increased performance by X%') to provide measurable evidence of your impact.",
+    "Mention communication skills: Highlight your communication skills explicitly, especially in collaborative projects, as they are crucial for team-based roles."
+  ],
+  "example": {
+    "Skills": [
+      "Programming Languages: Python, R, JavaScript",
+      "Frameworks: TensorFlow, Keras, PyTorch, React.js, Next.js",
+      "Data Handling: Pandas, NumPy, Matplotlib, Seaborn",
+      "Machine Learning: Supervised and Unsupervised Learning, Model Evaluation Metrics",
+      "Software Development: Git, Agile Methodologies"
+    ]
+  }
+}
